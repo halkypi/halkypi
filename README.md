@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- [Linkedin](https://www.linkedin.com/in/scott-halkyard)
+- [www.linkedin.com/in/scott-halkyard](https://www.linkedin.com/in/scott-halkyard)
 
 <!--
 **halkypi/halkypi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
